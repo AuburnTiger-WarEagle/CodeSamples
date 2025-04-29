@@ -8,3 +8,5 @@
 AuburnTiger1989/AuburnTiger1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+I have included code example in c#, Objective-C, Swift and VBScript. If you find them helpful, please feel free to copy them and use them freely.
